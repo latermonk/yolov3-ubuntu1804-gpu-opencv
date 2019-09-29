@@ -18,7 +18,7 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D OPENCV_E
 make -j6 && make install && \
 ldconfig
 
-``
+```
 
 https://github.com/php-opencv/php-opencv-examples/wiki/Installation-on-ubuntu      
 
