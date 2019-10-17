@@ -1,3 +1,4 @@
+#https://milq.github.io/create-terminal-shortcut-ubuntu-debian/
 #https://raw.githubusercontent.com/milq/milq/master/scripts/bash/install-opencv.sh
 ######################################
 # INSTALL OPENCV ON UBUNTU OR DEBIAN #
